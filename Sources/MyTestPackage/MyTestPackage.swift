@@ -10,3 +10,8 @@ extension MyTestPackage {
         print(text)
     }
 }
+extension MyTestPackage {
+    public func printHello() {
+        print("Hello")
+    }
+}
